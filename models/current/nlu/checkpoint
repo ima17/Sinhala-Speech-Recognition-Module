@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\level4_sem1\\project_intent_Extraction\\models\\current\\nlu\\component_5_EmbeddingIntentClassifier.ckpt"
+all_model_checkpoint_paths: "D:\\level4_sem1\\project_intent_Extraction\\models\\current\\nlu\\component_5_EmbeddingIntentClassifier.ckpt"
